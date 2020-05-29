@@ -16,7 +16,7 @@ regarding the data.
 ### Python Learning In The Course
 
 Check the link for my learning material.
-[Check this out](info 4)
+[Check this out](https://github.com/francesboykin/frances-bikeshare-project-3/blob/documentation/readme.txt)
 
 #### Files Used
 
